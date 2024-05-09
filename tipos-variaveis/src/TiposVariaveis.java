@@ -1,5 +1,24 @@
-public class App {
+public class TiposVariaveis {
+    /**
+     * @param args
+     * @throws Exception
+     */
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        //tipos de dados primitivos
+            //byte, short, int, long
+            //float, double
+
+        double salario = 2500.32;
+        String nomeCompleto = "Italo Bello Silva";
+         
+        //para nomes de variaveis longos utilizar camelCase
+        short numeroCurto = 1; 
+        int numeroLongo = numeroCurto;
+        short numeroCurto2 = (short) numeroLongo; //exemplo de cast
+
+        //final marca uma constante
+        //para constantes, utilizar UPPER_SNAKE_CASE 
+        final double VALOR_PI = 3.14; 
+        
     }
 }
