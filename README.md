@@ -2,9 +2,18 @@
 Repositorio de testes e exemplos em java
 
 ## Tipos e Variaveis em Java
+Tipos primitivos em 
 
 ## Operadores em Java
-
+| Operador | Descrição | Exemplo |
+| ---------| --------- | ------- |
+|     =    | Atribuição | `int idade = 32;` |
+| +        | Adição    | `double soma = 130.2 + 21.0;` |
+| -        | Subtração | `int subtração = 22 - 3;` |
+| *        | Multiplicação | `int multiplicação = 32 * 3;` |
+| /        | Divisão | `int divisão = 34 / 2;` |
+| %        | Modulo | `int modulo = 3 % 2;` |
+    
 
 ## Convenção de Commits
 
