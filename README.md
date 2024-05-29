@@ -22,8 +22,8 @@ Tipos primitivos em
 | Metodo | public ou protected ou private + static ou final ou abstract + void e return |
 | Atributo | public ou protected ou private + static ou final + tipo primitivo |
 
-    
 
+    
 ## Convenção de Commits
 
 | Tipo de Commit |Descrição                                                            | Exemplo
