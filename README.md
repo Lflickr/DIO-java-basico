@@ -13,6 +13,15 @@ Tipos primitivos em
 | *        | Multiplicação | `int multiplicação = 32 * 3;` |
 | /        | Divisão | `int divisão = 34 / 2;` |
 | %        | Modulo | `int modulo = 3 % 2;` |
+
+## Palavras reservadas
+| Nível de uso | Palavras |
+| ---------| --------- |
+| Arquivo | package, import, static |
+| Classe | public ou private ou protected + final ou abstract + extends ou implements |
+| Metodo | public ou protected ou private + static ou final ou abstract + void e return |
+| Atributo | public ou protected ou private + static ou final + tipo primitivo |
+
     
 
 ## Convenção de Commits
