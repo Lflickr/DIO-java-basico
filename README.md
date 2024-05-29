@@ -2,7 +2,7 @@
 Repositorio de testes e exemplos em java
 
 ## Tipos e Variaveis em Java
-Tipos primitivos em 
+Tipos primitivos em java
 
 ## Operadores em Java
 | Operador | Descrição | Exemplo |
@@ -23,7 +23,7 @@ Tipos primitivos em
 | Atributo | public ou protected ou private + static ou final + tipo primitivo |
 
 
-    
+
 ## Convenção de Commits
 
 | Tipo de Commit |Descrição                                                            | Exemplo

@@ -1,9 +1,8 @@
 public class TiposVariaveis {
-    /**
-     * @param args
-     * @throws Exception
-     */
+
     public static void main(String[] args) throws Exception {
+    
+
         //tipos de dados primitivos
             //byte, short, int, long
             //float, double
@@ -19,6 +18,7 @@ public class TiposVariaveis {
         //final marca uma constante
         //para constantes, utilizar UPPER_SNAKE_CASE 
         final double VALOR_PI = 3.14; 
+        //System.out.println(VALOR_PI);
         
     }
 }
