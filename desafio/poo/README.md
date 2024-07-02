@@ -10,3 +10,5 @@ O desafio é modelar e diagramar uma representação UML do componente iPhone, e
    - Métodos: `ligar(String numero)`, `atender()`, `iniciarCorreioVoz()`
 3. **Navegador na Internet**
    - Métodos: `exibirPagina(String url)`, `adicionarNovaAba()`, `atualizarPagina()`
+
+## Diagrama feito atravez da ferramenta Plant UML
